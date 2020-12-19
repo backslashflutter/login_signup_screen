@@ -2,11 +2,10 @@
 
 Login, Signup and Welcome screen UI design in Flutter | <a href="https://www.youtube.com/channel/UCknAgO0AdG61Yd1G7D1Arxg">BackSlash Flutter YouTube Channel</a>
 
-<p align="center">
-  <img src="AppImages/welcome.png" height="350" hspace="100"/>
+
+<img src="AppImages/welcome.png" height="350" hspace="100"/>
   
-  <img src="AppImages/login.png" height="350" hspace="100"/><br><br>
-</p>
+<img src="AppImages/login.png" height="350" hspace="100"/>
 
  
 
