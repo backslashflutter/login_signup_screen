@@ -5,8 +5,7 @@ Login, Signup and Welcome screen UI design in Flutter
 ## [Watch it on YouTube](https://www.youtube.com/watch?v=iUG_2gwNNn4)
 
 
-![App UI](AppImages/welcome.png)
-![App UI](AppImages/login.png)
+![App UI](AppImages/intro.jpg)
  
 
 
